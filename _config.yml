@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "http://nsswaga.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "http://marloeuyjr.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/winin.no" # the subpath of your site, e.g. /blog
 
 title      : WIN IT Network
